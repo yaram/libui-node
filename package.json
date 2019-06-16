@@ -55,6 +55,7 @@
 		"autogypi.json"
 	],
 	"devDependencies": {
+		"autogypi": "^0.2.2",
 		"ava": "^0.25.0",
 		"clang-format": "^1.2.2",
 		"humanize": "0.0.9",
@@ -63,7 +64,6 @@
 	},
 	"dependencies": {
 		"@mischnic/async-hooks": "^0.0.4",
-		"autogypi": "^0.2.2",
 		"libui-download": "^1.1.0",
 		"nbind": "^0.3.14",
 		"node-gyp": "^3.3.1"
